@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi I'm Mohammad Altamash 👋
+
+I'm passionate about using data to solve business problems through analytics and visualization.
+
+## Skills
+
+- Power BI
+- SQL
+- Python
+- Excel
+- DAX
+- Power Query
+
+## Connect with me
+
+- LinkedIn: www.linked.com/in/altamash0008
+- Email: altamashftp@gmail.com
 
 <!--
 **Altamash0008/Altamash0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
