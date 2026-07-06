@@ -13,7 +13,7 @@ I'm passionate about using data to solve business problems through analytics and
 
 ## Connect with me
 
-- LinkedIn: www.linked.com/in/altamash0008
+- LinkedIn: www.linkedin.com/in/altamash0008
 - Email: altamashftp@gmail.com
 
 <!--
