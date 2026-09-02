@@ -1,4 +1,4 @@
-## Hi I'm Mohammad Altamash 👋
+## Hi 👋  I'm Mohammad Altamash 
 
 I'm passionate about using data to solve business problems through analytics and visualization.
 
