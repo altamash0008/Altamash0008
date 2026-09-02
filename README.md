@@ -7,7 +7,8 @@ I'm passionate about using data to solve business problems through analytics and
 - Power BI
 - SQL
 - Python
-- Excel
+- Microsoft Excel
+- Google BigQuery
 - DAX
 - Power Query
 
