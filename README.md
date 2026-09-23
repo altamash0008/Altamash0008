@@ -6,6 +6,7 @@ I'm passionate about using data to solve business problems through analytics and
 
 - Power BI
 - SQL
+- MySQL
 - Python
 - Microsoft Excel
 - Google BigQuery
